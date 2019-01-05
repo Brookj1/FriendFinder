@@ -1,4 +1,4 @@
-var friendsArray = [
+var friends = [
 //     {
 //         name: "Jamie",
 //         age: 41,
@@ -7,4 +7,4 @@ var friendsArray = [
 
 // module.exports = friends;
 
-module.exports = friendsArray;
+module.exports = friends;
